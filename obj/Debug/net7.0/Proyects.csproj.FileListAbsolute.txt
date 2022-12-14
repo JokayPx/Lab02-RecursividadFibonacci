@@ -1,0 +1,15 @@
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\bin\Debug\net7.0\Proyects.exe
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\bin\Debug\net7.0\Proyects.deps.json
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\bin\Debug\net7.0\Proyects.runtimeconfig.json
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\bin\Debug\net7.0\Proyects.dll
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\bin\Debug\net7.0\Proyects.pdb
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.csproj.AssemblyReference.cache
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.AssemblyInfoInputs.cache
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.AssemblyInfo.cs
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.csproj.CoreCompileInputs.cache
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.dll
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\refint\Proyects.dll
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.pdb
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\Proyects.genruntimeconfig.cache
+D:\Universidad\4 Semestre\Estructura Datos y Algoritmos II\Proyects\obj\Debug\net7.0\ref\Proyects.dll
